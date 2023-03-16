@@ -1,0 +1,17 @@
+.underline-input {
+  width: 130px;
+  background-image: url("/public/img/underline.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  text-align: center;
+}
+
+.long-underline-input {
+  width: 150px;
+  background-image: url("/public/img/underline.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  text-align: center;
+}

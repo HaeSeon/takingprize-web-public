@@ -1,0 +1,7 @@
+.prizeIcon {
+}
+
+.prizeIcon.active {
+  background-color: #cdcdcd;
+  border-radius: 0.4em;
+}
